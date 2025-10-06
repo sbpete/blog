@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "example-blog",
+    "title": "example blog",
+    "description": "this is the desc",
+    "date": "2025-10-06T00:00:00.000Z",
+    "coverImageUrl": "https://picsum.photos/300/200",
+    "tags": [
+      "example"
+    ]
+  }
+]
