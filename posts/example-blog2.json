@@ -1,9 +1,0 @@
-{
-  "slug": "example-blog2",
-  "title": "example blog2",
-  "description": "this is another desc",
-  "date": "2025-10-06T00:00:00.000Z",
-  "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/example-blog2-1759787150505-chatgpt_image_apr_8__2025__10_46_06_pm.png",
-  "tags": [],
-  "contentMarkdown": "# Here is the title\n\n## image below\n![aws-certified-cloud-practitioner.png](https://raw.githubusercontent.com/sbpete/blog/main/images/example-blog2-1759787202054-aws-certified-cloud-practitioner.png)\n\nCool"
-}
