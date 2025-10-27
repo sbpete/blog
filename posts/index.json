@@ -1,10 +1,26 @@
 [
   {
+    "slug": "the-most-important-part-of-software-development-that-ai-cant-replace",
+    "title": "The Most Important Part of Software Development that AI Can't Replace",
+    "description": "Given its rapid development, it's easy to think that AI will come for just about all aspects of software engineering, but at the very core of software design lies something that AI cannot understand or account for.",
+    "date": "2025-10-27T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/the-most-important-part-of-software-development-that-ai-cant-replace-1761527991316-arngren-bad-website-design.jpg.avif",
+    "tags": [
+      "AI",
+      "Software Engineering",
+      "Entrepreneurship"
+    ]
+  },
+  {
     "slug": "how-ai-is-reshaping-the-psychology-of-software-engineering",
     "title": "How AI is Reshaping the Psychology of Software Engineering",
     "description": "As AI increasingly takes over lower-level tasks in roles like SWE and consulting, are our brains prepared for this dramatic shift to higher-level thinking?",
     "date": "2025-10-16T00:00:00.000Z",
     "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/how-ai-is-reshaping-the-psychology-of-software-engineering-1760580730438-milad-fakurian-58z17lnvs4u-unsplash.jpg",
-    "tags": ["AI", "Software Engineering", "Career"]
+    "tags": [
+      "AI",
+      "Software Engineering",
+      "Career"
+    ]
   }
 ]
