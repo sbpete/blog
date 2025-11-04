@@ -1,5 +1,18 @@
 [
   {
+    "slug": "dangers-of-ai-in-the-workplace",
+    "title": "Dangers of AI in the Workplace",
+    "description": "Almost everyone agrees that AI should increase productivity, but how could it go wrong?",
+    "date": "2025-11-04T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/temp-1762293833356-boards.png",
+    "tags": [
+      "AI",
+      "Software Engineering",
+      "Product Management",
+      "Project Management"
+    ]
+  },
+  {
     "slug": "the-most-important-part-of-software-development-that-ai-cant-replace",
     "title": "The Most Important Part of Software Development that AI Can't Replace",
     "description": "Given its rapid development, it's easy to think that AI will come for just about all aspects of software engineering, but at the very core of software design lies something that AI cannot understand or account for.",
