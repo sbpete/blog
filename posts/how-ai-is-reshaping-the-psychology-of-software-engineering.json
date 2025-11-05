@@ -5,5 +5,82 @@
   "date": "2025-10-16T00:00:00.000Z",
   "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/how-ai-is-reshaping-the-psychology-of-software-engineering-1760580730438-milad-fakurian-58z17lnvs4u-unsplash.jpg",
   "tags": ["AI", "Software Engineering", "Career"],
-  "contentMarkdown": "# How AI is Reshaping the Psychology of Software Engineering\n\nAs AI increasingly takes over lower-level tasks in roles like software engineering and consulting, are our minds prepared for this dramatic shift toward higher-level thinking?\n\nAs a student entering the software industry, it is hard to deny that the role of the software engineer is evolving. AI is fundamentally reshaping how I approach both personal projects and daily technical work. Through these small projects, I have had the chance to iterate quickly and gain a wide range of experience using emerging AI tools.\n\nAs models become more capable at niche tasks like writing configuration files or debugging complex React rendering issues, it is harder to justify learning any specific language or framework in depth. Instead, my thinking naturally shifts toward higher-level reasoning, where I orchestrate the various pieces of a project rather than meticulously crafting each line of code. This skill set differs greatly from the day-to-day job of a traditional software engineer, yet I believe it will soon align with what companies expect.\n\nMany companies have already cut back on hiring entry-level talent. Those that screen for and cultivate higher-level reasoning skills will likely be the first to succeed in this new technical environment. One could argue that I am only experimenting with AI on small personal projects, and that it will be years before these tools can produce industry-level code. But given the rapid leaps in model performance and the massive investments from AI firms, I believe it is only a few years before AI contributes to 50% or more of the new code written across the industry.\n\n---\n\n## From Syntax to Systems Thinking\n\nMany developers today still rely on lower-level, inductive thinking, deciding on minor code changes based on syntax rules or past experience with a language. Unfortunately, that is precisely the kind of work that large language models excel at.\n\nDevelopers should instead look to their team leads, architects, or even other areas of the business to learn how to make decisions that not only solve the immediate problem but also serve the entire codebase and organization. Learning to effectively integrate AI tools can make developers faster, improve code reliability, and free up time to focus on areas where they can add true value.\n\n---\n\n## A Shift Toward Leadership and Ownership\n\nAt first, this shift may sound like it will shrink job opportunities. After all, if everyone needs to become a higher-level thinker, what happens to the entry-level roles? But in reality, leadership positions are becoming more common in the AI era.\n\nCompanies should be using this newly freed-up time to **experiment**, **innovate**, and **empower individual employees** to lead their own initiatives with an army of AI collaborators. The ability to iterate rapidly and experiment boldly will define success in the coming decade, where a maximalist approach that embraces AI as an extension of human capability will be essential.\n"
+  "contentMarkdown": "# The Dangers of AI in the Workplace
+
+Before I start, this is just my opinion. Whether you're just starting to use AI or it’s already part of your daily work, I hope this helps you think about how it’s really changing things.
+
+AI promises to speed everything up — writing code, generating reports, automating workflows. But how useful it actually is depends on how people use it. Some people get huge productivity boosts. Others get frustrated or even slower. A recent [ACM study](https://dl.acm.org/doi/pdf/10.1145/3643795.3648379) found that trust, experience, and understanding play a big role in how effective AI really is. The more you know its limits, the more you get out of it.
+
+---
+
+## The New Stress of “Speed”
+
+Software development has always been full of estimates. How long until it’s done? How much effort will it take? But now, new tools claim to make everything faster. Product managers expect quicker delivery. Executives expect more output. Engineers are left trying to keep up.
+
+The result? Less testing, fewer reviews, more chaos. Code gets shipped that isn’t ready. Tech stacks change weekly. Managers are stressed about picking the right tools, and developers are burned out trying to hit unrealistic goals. AI was supposed to make things easier, but often it just shifts the pressure somewhere else.
+
+It’s not that AI is bad — it’s that expectations grow faster than what’s realistic. Everyone wants instant results. But real software still takes time to test, integrate, and maintain.
+
+---
+
+## When Engineers Stop Learning
+
+If every time something breaks we just ask AI to fix it, we stop learning how to debug and think critically. Debugging is how you build intuition. You learn how systems connect and where assumptions fail. That skill fades fast if you let AI do all the thinking.
+
+The scary part is that AI code *looks* correct. It compiles, it runs, maybe even passes your tests. But it might be subtly wrong in ways that are hard to spot. And when you don’t understand what it’s doing, you can’t fix it later.
+
+AI can’t replace problem-solving. It can only hide it behind convenience. The best developers will still be the ones who know how to think — not just how to prompt.
+
+---
+
+## Losing Sight of Business Value
+
+A lot of AI projects sound impressive but have little real purpose. Companies love to show off “AI-powered” features that don’t actually help users. It’s easy to confuse building *something* with building *something valuable*.
+
+As engineers, our job isn’t to write code. It’s to create value — something people use, enjoy, or pay for. If AI doesn’t help with that, it’s just noise.
+
+Only humans can connect technology to real needs. AI doesn’t understand business trade-offs, users, or context. Without that judgment, teams can waste months chasing trends that don’t matter.
+
+---
+
+## The Culture Gap
+
+AI has made it even harder for engineers, managers, and executives to stay aligned. Leadership hears “AI writes code instantly” and assumes timelines should shrink. But engineers know that even if AI writes code, it doesn’t design, test, or deploy it.
+
+That misunderstanding creates tension. Developers feel rushed, managers feel behind, and executives wonder why things still take time. The fix isn’t more AI — it’s clearer communication about what AI can and can’t do.
+
+---
+
+## Using AI the Right Way
+
+Ethan Mollick’s *[Co-Intelligence](https://www.co-intelligence.com/)* describes two ways to work with AI: the **cyborg**, where human and AI work blend completely, and the **centaur**, where humans stay in control and use AI as support. The centaur model works better. Humans handle judgment and direction. AI handles speed and repetition.
+
+To make that work, the fundamentals of engineering still matter:
+- **Testing:** Define what correct means.  
+- **Modularity:** Keep systems clean and understandable.  
+- **Code reviews:** Humans catch what AI can’t.  
+- **Documentation:** Don’t rely on AI to explain everything later.  
+
+These basics have always mattered, and AI doesn’t change that. If anything, it makes them more important.
+
+---
+
+## The Real Role of AI
+
+AI won’t take entire jobs — it’ll take the boring parts of them. That’s a good thing if you use it right. The best engineers will learn to use AI as leverage, not a crutch.
+
+AI gives us a chance to focus on what actually matters: building useful things, solving real problems, and thinking deeply about how tech fits into the world. The danger isn’t that AI replaces us — it’s that we stop thinking critically because it’s easier not to.
+
+---
+
+**Further Reading**
+
+- [“Things They Didn’t Teach You About Software Engineering”](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/) by Vadim Kravcenko  
+- [ACM Study on LLM Perception and Usefulness](https://dl.acm.org/doi/pdf/10.1145/3643795.3648379)  
+- *Co-Intelligence* by Ethan Mollick  
+
+---
+
+AI won’t destroy software engineering. But it will make it obvious who really understands it.
+"
 }
