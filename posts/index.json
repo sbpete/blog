@@ -1,5 +1,17 @@
 [
   {
+    "slug": "how-i-use-ai-as-a-computer-science-student",
+    "title": "How I Use AI as a Computer Science Student",
+    "description": "I use AI as a multiplier on my work, not a replacement for it, letting simple tools handle the clutter so I can focus on actually learning and building.\n",
+    "date": "2025-11-17T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/how-i-use-ai-as-a-computer-science-student-1763421796979-vs_code5.png",
+    "tags": [
+      "AI Agents",
+      "Computer Science",
+      "Student"
+    ]
+  },
+  {
     "slug": "guide-to-networking-for-new-grads-in-2025",
     "title": "Guide to Networking for New Grads in 2025",
     "description": "Most students grind LeetCode without realizing the real first step is building genuine connections that open the door to those interviews.",
@@ -14,7 +26,7 @@
   {
     "slug": "dangers-of-ai-in-the-workplace",
     "title": "Dangers of AI in the Workplace",
-    "description": "AI wonât destroy software engineering, but it will make it obvious who truly understands it.",
+    "description": "AI wonÃ¢ÂÂt destroy software engineering, but it will make it obvious who truly understands it.",
     "date": "2025-11-04T00:00:00.000Z",
     "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/temp-1762293833356-boards.png",
     "tags": [
