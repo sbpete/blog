@@ -1,5 +1,19 @@
 [
   {
+    "slug": "is-leetcode-dead",
+    "title": "Is Leetcode dead?",
+    "description": "As AI floods the industry, do Leetcode problems become obsolete or more important than ever?",
+    "date": "2025-11-25T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/is-leetcode-dead-1764041120430-leetcode_sharing.png",
+    "tags": [
+      "Leetcode",
+      "DSA",
+      "Interviews",
+      "Career",
+      "Software Engineering"
+    ]
+  },
+  {
     "slug": "how-i-use-ai-as-a-computer-science-student",
     "title": "How I Use AI as a Computer Science Student",
     "description": "I use AI as a multiplier on my work, not a replacement for it, letting simple tools handle the clutter so I can focus on actually learning and building.\n",
