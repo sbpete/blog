@@ -1,5 +1,17 @@
 [
   {
+    "slug": "10-systems-design-concepts-i-wish-id-learned-before-senior-year",
+    "title": "10 Systems Design Concepts I Wish I'd Learned Before Senior Year",
+    "description": "A clear, foundational look at the systems design concepts most students never learn but every real-world engineer eventually relies on.",
+    "date": "2025-12-01T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/10-systems-design-concepts-i-wish-id-learned-before-senior-year-1764590983316-sys_design.png",
+    "tags": [
+      "Systems Design",
+      "Career",
+      "Software Engineering"
+    ]
+  },
+  {
     "slug": "is-leetcode-dead",
     "title": "Is Leetcode dead?",
     "description": "As AI floods the industry, do Leetcode problems become obsolete or more important than ever?",
