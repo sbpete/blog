@@ -1,5 +1,16 @@
 [
   {
+    "slug": "working-with-ai-at-production-scale",
+    "title": "Working with AI at Production Scale",
+    "description": "People think AI is for the hobbyists, but learning to use AI at production scale is one of the fastest ways to sharpen your skills, as long as you stay intentional about context, tooling, and review.",
+    "date": "2026-02-13T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/working-with-ai-at-production-scale-1770948964634-gemini_generated_image_mb6w59mb6w59mb6w.png",
+    "tags": [
+      "AI",
+      "Software Engineering"
+    ]
+  },
+  {
     "slug": "what-is-the-best-way-to-learn-a-new-programming-language-in-2026",
     "title": "What is the Best Way to Learn a New Programming Language in 2026",
     "description": "The fastest way to learn a new programming language today is to recreate the apprentice model using AI as a tireless mentor, while you stay responsible for understanding, intent, and correctness.",
