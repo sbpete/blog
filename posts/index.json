@@ -1,5 +1,17 @@
 [
   {
+    "slug": "measuring-productivity-in-the-age-of-ai",
+    "title": "Measuring Productivity in the Age of AI",
+    "description": "In a world where AI can create all the code, your job title is changing from \"engineer\" to \"engineer of engineers\" what is the new scoreboard?",
+    "date": "2026-02-22T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/measuring-productivity-in-the-age-of-ai-1771797461005-gemini_generated_image_szdxs4szdxs4szdx.png",
+    "tags": [
+      "AI",
+      "Productivity",
+      "Software Engineering"
+    ]
+  },
+  {
     "slug": "why-not-to-build-that-ai-side-project",
     "title": "Why Not To Build That AI Side Project",
     "description": "In a world where anyone can create an app, the smartest move might be not to build at all.",
