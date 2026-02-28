@@ -1,5 +1,17 @@
 [
   {
+    "slug": "digging-a-little-deeper-into-mcp",
+    "title": "Digging a Little Deeper into MCP",
+    "description": "MCP is the plumbing that makes agent tool calls real, and understanding the plumbing is how you keep the magic under control.",
+    "date": "2026-03-01T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/digging-a-little-deeper-into-mcp-1772306993499-gemini_generated_image_h8s8ryh8s8ryh8s8.png",
+    "tags": [
+      "AI",
+      "Software Engineering",
+      "MCP"
+    ]
+  },
+  {
     "slug": "measuring-productivity-in-the-age-of-ai",
     "title": "Measuring Productivity in the Age of AI",
     "description": "In a world where AI can create all the code, your job title is changing from \"engineer\" to \"engineer of engineers\" what is the new scoreboard?",
