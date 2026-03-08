@@ -1,5 +1,13 @@
 [
   {
+    "slug": "openclaw-works-best-when-your-life-is-already-debugged",
+    "title": "OpenClaw Works Best When Your Life Is Already Debugged",
+    "description": "Openclaw is not magic, but it is the most useful form of AI so far.",
+    "date": "2026-03-08T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/openclaw-works-best-when-your-life-is-already-debugged-1773001431637-gemini_generated_image_itltbkitltbkitlt.png",
+    "tags": []
+  },
+  {
     "slug": "digging-a-little-deeper-into-mcp",
     "title": "Digging a Little Deeper into MCP",
     "description": "MCP is the plumbing that makes agent tool calls real, and understanding the plumbing is how you keep the magic under control.",
