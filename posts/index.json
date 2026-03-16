@@ -1,5 +1,17 @@
 [
   {
+    "slug": "ai-attention-and-the-fight-for-focus",
+    "title": "AI, Attention, and the Fight for Focus",
+    "description": "AI can either steal our focus or free it for work that really matters.",
+    "date": "2026-03-15T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/ai-attention-and-the-fight-for-focus-1773619534759-gemini_generated_image_y95azxy95azxy95a.png",
+    "tags": [
+      "AI",
+      "Attention",
+      "Society"
+    ]
+  },
+  {
     "slug": "openclaw-works-best-when-your-life-is-already-debugged",
     "title": "OpenClaw Works Best When Your Life Is Already Debugged",
     "description": "Openclaw is not magic, but it is the most useful form of AI so far.",
