@@ -1,5 +1,17 @@
 [
   {
+    "slug": "what-i-learned-from-one-month-with-openclaw",
+    "title": "What I Learned From One Month With OpenClaw",
+    "description": "OpenClaw gave me an AI teammate, a security headache, and a brief god-complex, but shouldn't every influential technology?",
+    "date": "2026-04-06T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/what-i-learned-from-one-month-with-openclaw-1775438001584-gemini_generated_image_sjqon3sjqon3sjqo.png",
+    "tags": [
+      "OpenClaw",
+      "AI",
+      "Productivity"
+    ]
+  },
+  {
     "slug": "ai-fomo-why-you-feel-it-and-what-to-do-about-it",
     "title": "AI FOMO: Why You Feel It and What to Do About It",
     "description": "Stop trying to keep up with AI, let it keep up with itself for you.",
@@ -14,7 +26,7 @@
   {
     "slug": "5-ai-things-that-seem-weird-now-but-will-be-normal-in-the-future",
     "title": "5 AI Things That Seem Weird Now but Will Be Normal in the Future",
-    "description": "Todayâs AI âred flagsâ are probably just tomorrowâs default settings.",
+    "description": "TodayÃ¢ÂÂs AI Ã¢ÂÂred flagsÃ¢ÂÂ are probably just tomorrowÃ¢ÂÂs default settings.",
     "date": "2026-03-22T00:00:00.000Z",
     "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/5-ai-things-that-seem-weird-now-but-will-be-normal-in-the-future-1774191966052-gemini_generated_image_vdilndvdilndvdil.png",
     "tags": [
