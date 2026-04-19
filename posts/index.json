@@ -1,8 +1,20 @@
 [
   {
+    "slug": "the-hidden-cost-of-context-engineering",
+    "title": "The hidden cost of context engineering",
+    "description": "The biggest risk in using AI for software engineering may be to engineering minds themselves.",
+    "date": "2026-04-19T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/the-hidden-cost-of-context-engineering-1776626372213-gemini_generated_image_45v34245v34245v3.png",
+    "tags": [
+      "AI",
+      "Software Engineering",
+      "Attention"
+    ]
+  },
+  {
     "slug": "managing-ai-agents-is-not-the-same-as-being-a-manager",
     "title": "Managing AI agents is not the same as being a manager",
-    "description": "AI can absorb more execution work, but it still can’t replace the human lift, perspective, and collaborative challenge that make real teams valuable.",
+    "description": "AI can absorb more execution work, but it still canât replace the human lift, perspective, and collaborative challenge that make real teams valuable.",
     "date": "2026-04-12T00:00:00.000Z",
     "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/managing-ai-agents-is-not-the-same-as-being-a-manager-1776027709510-gemini_generated_image_5n67ye5n67ye5n67.png",
     "tags": [
