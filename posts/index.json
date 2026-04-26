@@ -1,5 +1,17 @@
 [
   {
+    "slug": "ai-imposter-syndrome-for-new-grads",
+    "title": "AI Imposter Syndrome for New Grads",
+    "description": "Is using AI as a new grad a crutch or a jet pack? Either way it feels kind of weird.",
+    "date": "2026-04-26T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/ai-imposter-syndrome-for-new-grads-1777234785853-gemini_generated_image_pknkrdpknkrdpknk.png",
+    "tags": [
+      "AI",
+      "Software Engineering",
+      "New Grad"
+    ]
+  },
+  {
     "slug": "the-hidden-cost-of-context-engineering",
     "title": "The hidden cost of context engineering",
     "description": "The biggest risk in using AI for software engineering may be to engineering minds themselves.",
@@ -14,7 +26,7 @@
   {
     "slug": "managing-ai-agents-is-not-the-same-as-being-a-manager",
     "title": "Managing AI agents is not the same as being a manager",
-    "description": "AI can absorb more execution work, but it still canât replace the human lift, perspective, and collaborative challenge that make real teams valuable.",
+    "description": "AI can absorb more execution work, but it still canÃ¢ÂÂt replace the human lift, perspective, and collaborative challenge that make real teams valuable.",
     "date": "2026-04-12T00:00:00.000Z",
     "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/managing-ai-agents-is-not-the-same-as-being-a-manager-1776027709510-gemini_generated_image_5n67ye5n67ye5n67.png",
     "tags": [
