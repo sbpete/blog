@@ -1,5 +1,16 @@
 [
   {
+    "slug": "why-no-one-can-predict-the-future-of-ai",
+    "title": "Why No One Can Predict the Future of AI ",
+    "description": "Since the economics of AI are so distorted by subsidies, what happens when we actually have to watch our token usage? ",
+    "date": "2026-05-02T00:00:00.000Z",
+    "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/why-no-one-can-predict-the-future-of-ai-1777752972878-gemini_generated_image_ddwudcddwudcddwu.png",
+    "tags": [
+      "AI Adoption",
+      "Economics"
+    ]
+  },
+  {
     "slug": "ai-imposter-syndrome-for-new-grads",
     "title": "AI Imposter Syndrome for New Grads",
     "description": "Is using AI as a new grad a crutch or a jet pack? Either way it feels kind of weird.",
@@ -26,7 +37,7 @@
   {
     "slug": "managing-ai-agents-is-not-the-same-as-being-a-manager",
     "title": "Managing AI agents is not the same as being a manager",
-    "description": "AI can absorb more execution work, but it still canÃ¢ÂÂt replace the human lift, perspective, and collaborative challenge that make real teams valuable.",
+    "description": "AI can absorb more execution work, but it still canÃÂ¢ÃÂÃÂt replace the human lift, perspective, and collaborative challenge that make real teams valuable.",
     "date": "2026-04-12T00:00:00.000Z",
     "coverImageUrl": "https://raw.githubusercontent.com/sbpete/blog/main/images/managing-ai-agents-is-not-the-same-as-being-a-manager-1776027709510-gemini_generated_image_5n67ye5n67ye5n67.png",
     "tags": [
